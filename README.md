@@ -1,3 +1,3 @@
 # ScreenshotBot
 
-This ScreenshotBot repository contains code for a screenshot bot using Python and the PyAutoGUI library.
+This ScreenshotBot repository contains code for a screenshot bot using Python, Tkinter, and the PyAutoGUI libraries.
